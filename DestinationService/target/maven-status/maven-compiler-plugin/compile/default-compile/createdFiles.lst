@@ -1,0 +1,4 @@
+controller\DestinationController.class
+domain\Destination.class
+application\DestinationApplication.class
+db\DestinationDB.class
