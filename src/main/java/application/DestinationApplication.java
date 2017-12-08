@@ -8,7 +8,6 @@ import org.springframework.context.annotation.ComponentScan;
 import controller.DestinationController;
 
 
-@EnableDiscoveryClient
 @SpringBootApplication
 @ComponentScan(basePackageClasses = DestinationController.class)
 public class DestinationApplication {
